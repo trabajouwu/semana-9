@@ -21,6 +21,10 @@ width: 80vw;
   text-align: center;
 }
 
+.img img{
+width: 100%;
+}
+
 ::-webkit-scrollbar {
   width: 10px;
 }
