@@ -16,13 +16,9 @@ html {
   scroll-behavior: smooth;
 }
 
-.img{
-width: 80vw;
-  text-align: center;
-}
-
-.img img{
-width: 50%;
+.imagen{
+padding: 0 10%;
+  width: 80vw;
 }
 
 ::-webkit-scrollbar {
